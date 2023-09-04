@@ -35,3 +35,24 @@ address {
 .contact:hover, .contact:focus {
     color: #404bbf;
 }
+.firstsec {
+    background-color: #2e2f42;
+}
+.losung {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02;
+    color: #FFFFFF;
+}
+.button {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.button:hover, .button:focus {
+    background-color: #404bbf;
+}
