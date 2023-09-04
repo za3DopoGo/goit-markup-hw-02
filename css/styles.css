@@ -15,6 +15,9 @@ background-color: #FFFFFF;
 .logo-studio {
     color: #2e2f42;
 }
+ul {
+    list-style-type: none;
+}
 .nav-menu {
     font-weight: 500;
     line-height: 1.5;
@@ -35,10 +38,10 @@ address {
 .contact:hover, .contact:focus {
     color: #404bbf;
 }
-.firstsec {
+.hero-image {
     background-color: #2e2f42;
 }
-.losung {
+.slogan {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -56,18 +59,18 @@ address {
 .button:hover, .button:focus {
     background-color: #404bbf;
 }
-.benefit {
+.benefit, .team-member-name, .project-card {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.parag {
+.description, .specialty, .type-of-project {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.thirdsec {
+.team-section {
     background-color: #f4f4fd;
 }
 .title-sec {
