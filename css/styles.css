@@ -12,7 +12,7 @@ background-color: #FFFFFF;
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.logo-studio, footer {
+.logo-studio, .footer {
     color: #2e2f42;
 }
 .nav-menu {
@@ -81,8 +81,11 @@ address {
 .team-mem {
     background-color: #FFFFFF;
 }
-.footer-parag {
+.footer-parg {
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
+}
+.footer > .logo-studio {
+    color: #f4f4fd;
 }
