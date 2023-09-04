@@ -21,7 +21,7 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav-mwenu:hover, .nav-menu:focus {
+.nav-menu:hover, .nav-menu:focus {
     color: #404bbf;
     }
 address {
